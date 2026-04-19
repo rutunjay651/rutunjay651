@@ -35,55 +35,41 @@ Full-stack developer who loves turning ideas into smooth, functional, and visual
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
+## 🛠️ Teck Stack
+<p align="center">
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
 
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,dart,c&theme=dark&perline=7" />
-
-</td>
-<td align="center" width="50%">
-
-### 🧩 Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,django,flutter&theme=dark&perline=8" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+<br/><br/>
 
 </td>
+
+<td width="50%" align="center">
+   <h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+</td>
+
+
+
 </tr>
-
 <tr>
-<td align="center" width="50%">
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql&theme=dark&perline=4" />
+<td width="50%" align="center">
+  <h3>🗄️ Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+<br/><br/>
 
 </td>
-<td align="center" width="50%">
 
-### 🧰 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,androidstudio&theme=dark&perline=6" />
-
-<br/>
-
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-&nbsp;
-![Claude Code](https://img.shields.io/badge/Claude%20Code-1a1a1a?style=for-the-badge&logo=anthropic&logoColor=CC785C)
-&nbsp;
-![Antigravity](https://img.shields.io/badge/Antigravity-3776AB?style=for-the-badge&logo=python&logoColor=FFE873)
-
+<td width="50%" align="center">
+    <h3>🧰 Tools & Platforms</h3>
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
 </td>
 </tr>
 </table>
-
-</div>
+</p>
 
 ---
 
