@@ -22,16 +22,6 @@
 
 Full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences. From sleek UIs to scalable APIs — I craft products that feel **fast**, **intuitive**, and **enjoyable** to use.
 
-```yaml
-name      : Rutunjay Sonune
-location  : India  🌍
-focus     : Full Stack Web & Mobile Development
-status    : 🤝 Open to Collaborate (Web Development)
-secret    : 🥷 Vigilante  [CLASSIFIED]
-```
-
-<br/>
-
 #### 📬 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-rutunjaysonune309@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rutunjaysonune309@gmail.com)
 
