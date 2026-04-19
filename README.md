@@ -1,99 +1,138 @@
-﻿<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<div align="center">
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Rutunjay Sonune</strong>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Rutunjay%20Sonune&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20•%20Python%20•%20Flutter&descSize=16&descAlignY=58&descFontColor=a78bfa" width="100%" />
 
-<h3>Full Stack Developer | MERN • Python • Flutter</h3>
+<br/>
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=🚀+Turning+ideas+into+digital+reality;🌐+MERN+Stack+%7C+Python+%7C+Flutter;🤖+AI-Powered+Development+with+Claude;🥷+Vigilante+(Classified);✨+Open+to+Collaborate+on+Cool+Projects)](https://git.io/typing-svg)
 
-  <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
-  </p>
+<br/>
 
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:rutunjaysonune309@gmail.com"><img src="https://img.shields.io/badge/📧_rutunjaysonune309@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
-  </p>
+![Profile Views](https://komarev.com/ghpvc/?username=rutunjay651&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/rutunjay651?style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=FOLLOWERS)
 
-<h3>🌐 Socials</h3>
-  
-<p align="left">
-  <a href="https://discord.com/users/rutu_309">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/rutunjay651">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://instagram.com/rutunjay_.s._.05">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://youtube.com/@r.s-verse">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-
-
-  <img src="https://komarev.com/ghpvc/?username=rutunjay651&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
-<br clear="all" />
+---
 
+<img align="right" width="310" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-## 🛠️ Skills
-<p align="center">
+### 👋 Hey, I'm Rutunjay!
+
+Full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences. From sleek UIs to scalable APIs — I craft products that feel **fast**, **intuitive**, and **enjoyable** to use.
+
+```yaml
+name      : Rutunjay Sonune
+location  : India  🌍
+focus     : Full Stack Web & Mobile Development
+status    : 🤝 Open to Collaborate (Web Development)
+secret    : 🥷 Vigilante  [CLASSIFIED]
+```
+
+<br/>
+
+#### 📬 Contact
+[![Gmail](https://img.shields.io/badge/Gmail-rutunjaysonune309@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rutunjaysonune309@gmail.com)
+
+#### 🌐 Find me on
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rutu_309)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rutunjay651)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rutunjay_.s._.05)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@r.s-verse)
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
 <table>
 <tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
+<td align="center" width="50%">
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
-<br/><br/>
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,dart,c&theme=dark&perline=7" />
 
 </td>
+<td align="center" width="50%">
 
-<td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+### 🧩 Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,django,flutter&theme=dark&perline=8" />
+
 </td>
-
-
-
 </tr>
+
 <tr>
-<td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
-<br/><br/>
+<td align="center" width="50%">
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql&theme=dark&perline=4" />
 
 </td>
+<td align="center" width="50%">
 
-<td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+### 🧰 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,androidstudio&theme=dark&perline=6" />
+
+<br/>
+
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+&nbsp;
+![Claude Code](https://img.shields.io/badge/Claude%20Code-1a1a1a?style=for-the-badge&logo=anthropic&logoColor=CC785C)
+&nbsp;
+![Antigravity](https://img.shields.io/badge/Antigravity-3776AB?style=for-the-badge&logo=python&logoColor=FFE873)
+
 </td>
 </tr>
 </table>
-</p>
 
+</div>
 
-
-
-
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=rutunjay651&theme=dark&hide_border=true" alt="Streak" />
+
+<a href="https://github.com/rutunjay651">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=rutunjay651&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
+  &nbsp;
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutunjay651&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" />
+</a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=rutunjay651&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rutunjay651&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed&line=a78bfa&point=ffffff" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rutunjay651&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
+
 </div>
 
+---
+
+<div align="center">
+
+<img src="https://github.com/rutunjay651/rutunjay651/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" onerror="this.style.display='none'" />
+
+<br/>
+
+*"Code is like humor — when you have to explain it, it's bad."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,40:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+
+</div>
